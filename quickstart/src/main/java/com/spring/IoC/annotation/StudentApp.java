@@ -1,4 +1,4 @@
-package com.spring.annotation;
+package com.spring.IoC.annotation;
 import lombok.Data;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
