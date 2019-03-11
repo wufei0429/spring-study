@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f52e18d-c6a2-43cc-8fc2-03afe2866111" name="Default Changelist" comment="commit aop module" />
+    <list default="true" id="9f52e18d-c6a2-43cc-8fc2-03afe2866111" name="Default Changelist" comment="commit aop module">
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work" beforeDir="false" afterPath="$PROJECT_DIR$/../work" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/quickstart/target/" />
     <ignored path="$PROJECT_DIR$/IoC/target/" />
     <ignored path="$PROJECT_DIR$/aop/target/" />
@@ -97,8 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/orm/src/test/java/orm/service/impl/UserServiceImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="384">
+              <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -267,6 +271,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -278,7 +290,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552300805878" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552305390407" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -440,7 +452,7 @@
       <workItem from="1552262319798" duration="19411000" />
       <workItem from="1552297413892" duration="2274000" />
       <workItem from="1552302108383" duration="819000" />
-      <workItem from="1552304500594" duration="505000" />
+      <workItem from="1552304500594" duration="886000" />
     </task>
     <task id="LOCAL-00001" summary="commit aop module">
       <created>1551924825185</created>
@@ -477,7 +489,21 @@
       <option name="project" value="LOCAL" />
       <updated>1552300737066</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit aop module">
+      <created>1552305030224</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552305030224</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit aop module">
+      <created>1552305137447</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1552305137447</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -513,10 +539,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58290000" />
+    <option name="totallyTimeSpent" value="58671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13859275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -556,12 +583,12 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit aop module" />
     <MESSAGE value="add README.md file in aop" />
     <MESSAGE value="commit aop logtest" />
     <MESSAGE value="commit aop pointcut" />
     <MESSAGE value="commit orm module" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit orm module" />
+    <MESSAGE value="commit aop module" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit aop module" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/IoC/User.java">
@@ -943,8 +970,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/orm/src/test/java/orm/service/impl/UserServiceImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="384">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
